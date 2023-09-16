@@ -1,6 +1,7 @@
 # Article Preview Component - NEWBIE
 
-![Preview](images/intro.png)
+![268018032-39964f50-8709-4140-9fb7-e9e23be1a840](https://github.com/AbidMashwani/article-preview-component/assets/145152805/0b1ac700-c8a9-4c69-918a-3fdbfd709193)
+
 
 This project showcases an article preview component designed using HTML and CSS. It provides a visually appealing way to display article information, including an image, introductory text, description, and author details. Users can also share the article through various social media platforms.
 
@@ -8,8 +9,7 @@ This project showcases an article preview component designed using HTML and CSS.
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Responsive Design](#responsive-design)
+
 
 ## Features
 
